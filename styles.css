@@ -1,0 +1,14 @@
+html, body {
+    padding: 20px;
+    line-height: 1.5;
+    font-family: Georgia;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #FDFDFD;
+    color: #444;
+    font-size: 16px;
+}
+
