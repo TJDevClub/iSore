@@ -25,7 +25,7 @@ friction.
 
 ## Here is an anti-example:
 
-[http://www.hscitrus.com/](http://www.hscitrus.com/)
+[http://www.hscitrus.com/](https://web.archive.org/web/20161105073840/http://www.hscitrus.com/)
 
 I think we all immediately see that this is poorly designed, but what are some
 specific problem areas?
@@ -36,16 +36,17 @@ look good. For example:
    - The solid background color is jarring.
    - The navigation isn't obviously a navigation bar.
    - The Facebook logo isn't consistent with the rest of the text
-   - The marquee is just wrong. On so many levels. [Just...
-       don't](https://www.w3.org/wiki/HTML/Elements/marquee)
+   - The marquee is just wrong. On so many levels. [Just... don't](https://www.w3.org/wiki/HTML/Elements/marquee)
    - No clear hierarchy of information. What should we be looking at?
 
 Ok. That was kind of a trivial example, since a lot of the flaws were pretty
-obvious. 
+obvious.
 
 What about this one?
 
-[https://erictseng611.github.io/](https://erictseng611.github.io/)
+[https://erictseng611.github.io/](https://et611.naitian.org/)
+
+> Note: I've hosted a mirror of this site on my own servers, since it has since been updated.
 
 This is definitely better than H&S Citrus, that's for sure! But it still doesn't
 look amazing. It's at this point that you begin to really have to think about
@@ -68,6 +69,15 @@ something that looks nice, take the time to really analyze why. What do you like
 about it? Do you like the colors? The font choice? The way the animation plays?
 What do you like about the colors? The fact that they contrast or the fact that
 they complement each other?
+
+Here's some websites that I think are examples of good or appealing design. Also, basically any website that has won Awwwards is probably pretty good.
+
+    - http://takashiwickes.com/#
+    - http://gyanl.com/
+    - http://cedricith.com/
+    - http://travisneilson.com/
+
+Of course, there are plenty more, and a lot more diverse options for you to look at. Do not be afraid of bold designs.
 
 ## Ok, well I'm impatient, so I need some tips pronto
 
